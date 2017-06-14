@@ -131,7 +131,7 @@ This is a tab-separated .csv file using utf-8 encoding. Each row is one document
 	notesfirstyear: Notes from the First Year
 	notessecondyear: Notes from the Second Year 
 	masses: The Masses
-	redstokings: Feminist Revolution, produced by Redstockings
+	redstockings: Feminist Revolution, produced by Redstockings
 
 
     E. Name: org
