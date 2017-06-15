@@ -49,6 +49,8 @@ See <http://creativecommons.org/licenses/by-sa/3.0/>
 
 2. Links to publications that cite or use the data:
 
+Nelson, Laura K. Forthcoming. [Computational Grounded Theory: A Methodological Framework](https://drive.google.com/file/d/0BxI6W5IIG74FeEtGbjQ0WF9uM0U/view?usp=sharing). *Sociological Methods and Research*.
+
 
 3. Links to other publicly accessible locations of the data:
 
