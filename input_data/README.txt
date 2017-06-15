@@ -47,6 +47,7 @@ Artical about the ratings:
 Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.
 
 B. kant_metaphysics.txt
+
 Text file containing:
 
 Kant, Immanual. 2013. The Metaphysical Elements of Ethics. Start Publishing LLC.
@@ -55,22 +56,22 @@ C. wiki_germany.txt
 
 Text file containing the content of the Wikipedia page "Germany", collected May 11, 2014.
 
-D. named_entities_cwlu2.pkl
+D. named_entities_cwlu.json
 
-Named entities from the literature from the Chicago Women's Liberation Union, from the dataset computationalgroundedtheory_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
+Named entities from the literature from the Chicago Women's Liberation Union, from the dataset comparativewomensmovement_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
 
-E. named_entities_hh2.pkl
+E. named_entities_hullhouse.json
 
-Named entities from the literature from Hull House, from the dataset computationalgroundedtheory_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
+Named entities from the literature from Hull House, from the dataset comparativewomensmovement_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
 
-F. named_entities_masses2.pkl
+F. named_entities_heterodoxy.json
 
-Named entities from the literature from Heterodoxy (as published in The Masses), from the dataset computationalgroundedtheory_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
+Named entities from the literature from Heterodoxy (as published in The Masses), from the dataset comparativewomensmovement_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
 
-G. named_entities_red2.pkl
+G. named_entities_redstockings.json
 
-Named entities from the literature from Redstockings, from the dataset computationalgroundedtheory_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
+Named entities from the literature from Redstockings, from the dataset comparativewomensmovement_dataset.csv. Code to extract the named entities in this repostitory, 03-Step3-PatternConfirmation/PatternConfirmation.ipynb. The named entities were manually cleaned by me.
 
 H. stm_1234.RData
 
-Structural topic model on all of the text in the dataset computationalgroundedtheory_dataset.csv. Model run using the stm library in R, with 20, 30, 40, and 50 topics. Code in this respository: 01-Step1-PatternDetection/01-StructuralTopicModel.ipynb
+Structural topic model on all of the text in the dataset comparativewomensmovement_dataset.csv. Model run using the stm library in R, with 20, 30, 40, and 50 topics. Code in this respository: 01-Step1-PatternDetection/01-StructuralTopicModel.ipynb
