@@ -99,7 +99,7 @@ Texts were collected from the archives and websites listed above. Those that wer
 DATA-SPECIFIC INFORMATION FOR: FeministTexts.csv
 ------------------------------------------------
 
-This is a tab-separated .csv file using utf-8 encoding. Each row is one document.
+This is a tab-separated .csv file using utf-8 encoding. Each row is one document. Missing values were set using Python's numpy.nan.
 
 1. Number of variables: 9
 
@@ -114,7 +114,6 @@ This is a tab-separated .csv file using utf-8 encoding. Each row is one document
 
     B. Name: doc
        Description: filename including the City, the name of publication, the date if appropriate, and the page number if appropriate.
-
 
 
     C. Name: city
@@ -144,11 +143,9 @@ This is a tab-separated .csv file using utf-8 encoding. Each row is one document
 	redstockings: Redstockings
 
 
-
     F. Name: date
        Description: year text was published
 	
-
 
     G. Name: wave
        Description: Women's Movement wave in which the text was published
@@ -157,13 +154,21 @@ This is a tab-separated .csv file using utf-8 encoding. Each row is one document
 	2: Second Wave (1964-1984)
 
 
-
     H. Name: text_string
        Description: Raw text of the document sorted alphabetically, for copyright reasons
 
 
     I. Name: word_count
        Description: Number of words in the document
+
+    J. Name: author
+       Description: Last name of the author of the document, if known. The author may also be an organization, CWLU or Hull House. If uknown or not indicated, the value is set to missing (NaN). 
+
+    K. Name: page_number
+       Description: Document page number as an integer, if known. If not known or not indicated, the value is set to missing (NaN).
+
+    L. article_title
+       Description: Title of article document is from, if known. If not known or not indicated, the value is set to missing (NaN).
 
 
 
