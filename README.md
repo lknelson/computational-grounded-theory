@@ -8,9 +8,9 @@ This code replicates the analysis done in the article [Computational Grounded Th
 
 To run this code you will need: 
 
-*Python 3.5.2, and the Python libraries sklearn, pandas, nltk, numpy, scipy, matplotlib, and json
-*R 3.3.1, and the R library stm
-*Jupyter, and the rpy2 extention `rpy2.interactive.ipython`
+* Python 3.5.2, and the Python libraries sklearn, pandas, nltk, numpy, scipy, matplotlib, and json
+* R 3.3.1, and the R library stm
+* Jupyter, and the rpy2 extention `rpy2.interactive.ipython`
 
 **** See the requirements.txt file for specific versions of the libraries used ****
 
