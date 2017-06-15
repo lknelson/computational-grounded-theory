@@ -1,0 +1,13 @@
+python==3.5.2
+sklearn==0.18.1
+pandas==0.19.1
+nltk==3.2.1
+numpy==1.11.2
+scipy==0.18.1
+matplotlib==1.5.3
+json==2.0.9
+
+R==3.3.1
+stm==1.1.3
+
+
