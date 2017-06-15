@@ -80,7 +80,7 @@ DATA & FILE OVERVIEW
 ---------------------
 
 
-Data are in one .csv file, tab-separated using utf-8 encoding. 
+Data are in one .csv file, tab-separated using utf-8 encoding. The dataset was created using Python 3.5.2 and Pandas 0.19.1.
 
 The purpose of this dataset is to collect together texts from core feminist organizations in New York City and Chicago from the first wave women's movement, active from ~1865 to ~1920, and the second wave, active from ~1964 to ~1984, to allow systematic comparisons between the regions and the waves. 
 
