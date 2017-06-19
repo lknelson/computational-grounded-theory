@@ -57,20 +57,22 @@ Nelson, Laura K. Forthcoming. Computational Grounded Theory: A Methodological Fr
 
 Data available on: 
 	A. GitHub: https://github.com/lknelson/computational-grounded-theory/
-	B. Dash
+	B. OpenICPSR: 
 
 
 4. The text were collected from the following archives/sources:
 
-	A. University of Illinois at Chicago Special Collections: Hull House Records
+	A. Hull House collection. Special Collections and University Archives, University of Illinois at Chicago.
 
 	B. New York University Tamiment Libarary & Rovert F. Wagner Labor Archvies: The Masses (http://dlib.nyu.edu/themasses/)
 
-	C. “Documents from the Women's Liberation Movement: An On-Line Archival Collection. Special Collections Library, Duke University (http://library.duke.edu/rubenstein/scriptorium/wlm/)
+	C. "Notes from the First Year." Documents from the Women's Liberation Movement: An On-Line Archival Collection. Special Collections Library, Duke University (http://library.duke.edu/digitalcollections/wlmpc_wlmms01037/)
 
-	D. “Women's Liberation Movement Archives for Action.” Redstockings of the Women's Liberation Movement (http://www.redstockings.org/)
+	D. "Notes from the Second Year." Documents from the Women's Liberation Movement: An On-Line Archival Collection. Special Collections Library, Duke University (http://library.duke.edu/digitalcollections/wlmpc_wlmms01039/) 
 
-	E. Northwestern University, Evanston, IL: Womankind (Chicago, Ill.)
+	E. Sarachild, Kathie, Carol Hanisch, Faye Levine, Barbara Leon, and Colette Price. 1978. Feminist Revolution: An Abrdiged Edition with Additional Writings. New York: Redstockings.
+
+	F. Northwestern University, Evanston, IL: Womankind (Chicago, Ill.)
 
 
 6. Recommended citation for the data:
