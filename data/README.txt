@@ -106,7 +106,7 @@ DATA-SPECIFIC INFORMATION FOR: FeministTexts.csv
 
 This is a tab-separated .csv file using utf-8 encoding. Each row is one document. Missing values were set using Python's numpy.nan. The dataset was created using Python 3.5.2 and Pandas 0.19.1.
 
-1. Number of variables: 9
+1. Number of variables: 12
 
 
 2. Number of cases/rows: 1023
