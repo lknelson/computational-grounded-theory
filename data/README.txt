@@ -57,7 +57,7 @@ Nelson, Laura K. Forthcoming. Computational Grounded Theory: A Methodological Fr
 
 Data available on: 
 	A. GitHub: https://github.com/lknelson/computational-grounded-theory/
-	B. OpenICPSR: 
+	B. Coming soon: OpenICPSR
 
 
 4. The text were collected from the following archives/sources:
