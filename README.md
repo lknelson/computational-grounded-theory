@@ -16,4 +16,4 @@ To run this code you will need:
 
 The data file (in the data folder) contains text that is sorted alphabetically, as some of it is still under copyright. As such, the code and dataset in this repository replicates around 90% of the complete analysis. The final 10%, in particular the Named Entity Recognition calculation as well as Step 2 - the guided deep reading step - requires the unsorted text and is thus not fully replicable/reproducible with the data presented here. 
 
-You may email me (l dot nelson at northeastern dot edu) for access to the complete, unsorted, data, or with any questions/comments.
+You may email me (L dot Nelson at northeastern dot edu) for access to the complete, unsorted, data, or with any questions/comments.
