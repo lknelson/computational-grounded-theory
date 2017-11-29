@@ -1,5 +1,5 @@
 # Computational Grounded Theory
-This code replicates the analysis done in the article [Computational Grounded Theory: A Methodological Framework](https://drive.google.com/file/d/0BxI6W5IIG74FeEtGbjQ0WF9uM0U/view?usp=sharing), forthcoming in *Sociological Methods and Research*.
+This code replicates the analysis done in the article [Computational Grounded Theory: A Methodological Framework](http://journals.sagepub.com/doi/abs/10.1177/0049124117729703) in *Sociological Methods and Research* (online publication November, 2017).
 
 
 `01-Step1-PatternDetection` replicates Tables 3-4  
